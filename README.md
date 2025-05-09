@@ -1,4 +1,4 @@
-![Mein Profilbild](IMG_6597.heit)
+![Mein Profilbild](Profilbild.jpg)
 
 # Hi! It's Saiman Constantine - Art meets Innovation. Welcome to the unexpected.
 
