@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi! It's Saiman Constantine - Art meets Innovation. Welcome to the unexpected.
 
-<!--
-**SaiCon2003/SaiCon2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a freelance graphic designer, photograph and marketing consultant from Hamburg.
 
-Here are some ideas to get you started:
+## Projects
+- [My Portfolio](https://example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Photoshop, Adobe Applications (Creative Cloud Bundle), Canva, Figma, GitHub, MS Office (Certified)
+
+## Kontakt
+- E-Mail: saimanpaul@icloud.com
+- Instagram: saiman.constantine
