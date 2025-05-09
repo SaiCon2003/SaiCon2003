@@ -1,4 +1,7 @@
-<img src="Profilbild.jpg" alt"Prifilbild" width="150" style="border-radius: 50%;">
+<p align="center">
+<img src="images/profilbild.jpg" alt"Profilbild" width="150" style="border-radius: 50%;">
+</p>
+
 
 # Hi! It's Saiman Constantine - Art meets Innovation. Welcome to the unexpected.
 
