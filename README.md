@@ -1,4 +1,4 @@
-![Mein Profilbild](Profilbild.jpg)
+<img src="Profilbild.jpg" alt"Prifilbild" width="150" style="border-radius: 50%;">
 
 # Hi! It's Saiman Constantine - Art meets Innovation. Welcome to the unexpected.
 
